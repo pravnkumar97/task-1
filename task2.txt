@@ -1,0 +1,27 @@
+we will see the Document object & Window object, their various properties & methods, along with knowing their implementation & the differences between them.
+
+Document Object:
+
+Syntax:document.property_name;
+
+Syntax:document.method_name;
+
+1.The document object represents a web page that is loaded in the browser.
+
+2.By accessing the document object, we can access the element in the HTML page. 
+ 
+3.With the help of document objects, we can add dynamic content to our web page. 
+
+4.The document object can be accessed with a window.document or just document.
+
+Window Object:
+
+Syntax:window.property_name;
+
+Syntax:window.method_name;
+
+1.The window object is the topmost object of the DOM hierarchy. 
+
+2.It represents a browser window or frame that displays the contents of the webpage. 
+
+3.Whenever a window appears on the screen to display the contents of the document, the window object is created. 
